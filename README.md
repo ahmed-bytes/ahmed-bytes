@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ahmed Oladapo, currently a Software Engineering student 👨‍💻 working remotely since 2023 🚀</div>  
   
 
-- 🔭 I’m currently working on [Learning and building as a SE](https://github.com/DrDevex)  
+- 🔭 I’m currently working and [Learning and building as a SE](https://github.com/DrDevex)  
   
 
 - 🌱 I’m currently learning C and Shell Scripting  
