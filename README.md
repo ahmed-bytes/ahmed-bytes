@@ -7,7 +7,7 @@
 🧑‍💻Software Engineering Student • 🧑‍🎓CS50 Student • 🔗Competent in Data Science and DevOps</div>  
   
 
-- 🔭 I’m currently Learning in [ALX Africa](https://www.alxafrica.com)  
+- 🔭 I’m currently Learning in [ALX Africa](https://www.alxafrica.com),  [App Academy Open](https://www.appacademy.io/)
   
 
 - 🌱 I’m currently learning Linux (Bash Shell), C Programming and Javascript   
@@ -119,9 +119,7 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+https://drdevex.hashnode.dev/
 
 <br/>  
 
